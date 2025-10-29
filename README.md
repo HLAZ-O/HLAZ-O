@@ -3,9 +3,9 @@
 
 <h2> Cybersecurity Projects </h2>
 
-- <b>Wazuh SIEM Home Lab</b>
+- <b>Wazuh SIEM Home Lab (LINK FOR WRITE UP)</b>
 
-- [(Active Directory Home LAB )](Github Write UP LINK)
+- <b>Active Directory Home LAB (Github Write UP LINK)</b>
 
 <h2>📺 YouTube Videos</h2>
 
